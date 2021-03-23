@@ -1,2 +1,3 @@
-# cs-club-lesson-git
-Code for the lesson
+# Hello World
+
+Code for the lesson. I have made some edits
